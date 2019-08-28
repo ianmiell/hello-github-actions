@@ -10,4 +10,4 @@ jobs:
       env:
         MY_NAME: "Mona"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_TOKEN: ${{ secrets }}
+        GITHUB_TOKEN2: ${{ secrets }}
