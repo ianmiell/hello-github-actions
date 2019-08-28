@@ -1,3 +1,6 @@
-#!/bin/sh -l
+#!/bin/bash
 
-sh -c "echo Hello world my name is $MY_NAME"
+echo Hello world
+whoami
+apt update -y
+
