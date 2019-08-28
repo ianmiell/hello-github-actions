@@ -2,5 +2,5 @@
 
 echo Hello world
 whoami
-apt update -y
+env
 
